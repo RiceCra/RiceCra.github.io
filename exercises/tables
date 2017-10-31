@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+<center>
+  <table style="width:100%">
+    <tr>
+      <th>Month</th>
+      <th>Almonds</th> 
+      <th>Fungi</th>
+    </tr>
+    <tr>
+      <td>January</td>
+      <td>Innactive</td> 
+      <td>Little Growth</td>
+    </tr>
+    <tr>
+      <td>Febuary</td>
+      <td>Activated</td> 
+      <td>Major Growth</td>
+    </tr>
+    <tr>
+      <td>March</td>
+      <td>Innactive</td> 
+      <td>Partial Growth</td>
+    </tr>
+  </table>
+</center>
