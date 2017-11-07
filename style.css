@@ -1,0 +1,22 @@
+.bbg {
+  background-color: powderblue;
+}
+table, th, td {
+   border: 1px solid black;
+   font-family: Sans-Serif;
+   font-style: italic;
+   padding: 1px;
+   background-color: orange;
+}
+.center {
+  text-align: center;
+  background-color: tan;
+}
+h1 {
+  font-family: Monospace;
+  font-style: italic;
+}
+.example {
+  border: 5px;
+  padding: 5px
+}
